@@ -44,9 +44,10 @@ This project involves various aspects of data analysis using MySQL, focusing on 
   - Created triggers for `fact_forecast_monthly` and `fact_sales_monthly` tables to automate database updates when new data is inserted.
 
 ## Methodology
-1. **Data Collection**: Gathered transaction and sales data from various sources and imported it into MySQL.
+1. **Data Collection**: Gathered transaction and sales data from various sources, amounting to a 240 MB database file, and successfully imported it into MySQL for analysis.
 2. **Report Generation**: Utilized SQL queries, views, and stored procedures to create detailed financial and customer reports.
 3. **Automated Updates**: Implemented triggers for automated data handling in the supply chain section.
+
 
 ## Key Findings
 - **Financial Insights**: Generated accurate Gross and Net Sales reports, identifying trends and product performance.

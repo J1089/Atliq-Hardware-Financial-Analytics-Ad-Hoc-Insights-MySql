@@ -56,8 +56,3 @@ This project involves various aspects of data analysis using MySQL, focusing on 
 
 ## Conclusion
 This project successfully provided key insights into financial analytics, customer and product performance, and supply chain management. The automated processes and detailed reports generated significant value for business decision-making.
-
-## Future Work
-- Extend the project by incorporating more advanced forecasting techniques using machine learning.
-- Improve report visualization by integrating Power BI or Tableau.
-- Implement further optimizations in stored procedures for larger datasets.
